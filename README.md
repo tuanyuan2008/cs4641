@@ -29,11 +29,11 @@ Technical Requirements
 >
 >- Python 2.7.15
 >- sklearn 0.20.2
->- pybrain
+>- pybrain 0.3
 >- numpy 1.15.1
 >- matplotlib 2.2.3 
 >
->**Sources**
+>**Sources and adaptations**
 >
 >- https://github.com/iRapha/CS4641
 >- https://github.com/kylewest520/CS-7641---Machine-Learning
