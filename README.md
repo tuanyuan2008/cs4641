@@ -27,6 +27,7 @@ Technical Requirements
 
 >**Languages and tools used:**
 >
+>- Jupyter Notebook
 >- Python 2.7.15
 >- pandas 0.24.1
 >- sklearn 0.20.2
